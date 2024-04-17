@@ -2,16 +2,6 @@
 
 Welcome to the Git and GitHub Handbook! This repository serves as a comprehensive guide to understanding and effectively using Git and GitHub for version control and collaboration in software development projects.
 
-## Table of Contents
-
-1. [Introduction to Git and GitHub](#introduction-to-git-and-github)
-2. [Getting Started](#getting-started)
-3. [Basic Git Commands](#basic-git-commands)
-4. [Collaborating with GitHub](#collaborating-with-github)
-5. [Advanced Topics](#advanced-topics)
-6. [Additional Resources](#additional-resources)
-7. [Contributing](#contributing)
-8. [License](#license)
 
 ## Introduction to Git and GitHub
 
